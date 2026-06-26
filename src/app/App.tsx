@@ -424,7 +424,6 @@ hoping that survival is nothing more
 than refusing to let go.`,
     collection: "First Lights",
   },
-
 const essays = [
   {
     title: "A Critical Analysis of Depression and Psychological Conflict in the Poetry of Sylvia Plath",
