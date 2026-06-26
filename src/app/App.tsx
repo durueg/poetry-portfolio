@@ -379,7 +379,7 @@ it disappears beneath my feet,
 drawn between the life I have survived
 and the one I cannot yet reach.
 The wind knows my name.
-It whispers,
+It whispers:
 just one step wrong.
 Everything is blurred from here.
 The people below,
@@ -393,7 +393,7 @@ Then why does every trembling muscle beg me to hold on?
 Why does my heart beat like something
 trying to outrun its own ending?
 If the ground is so forgiving,
-Why have I spent every waking hour
+why have I spent every waking hour
 punishing myself for the slightest shift,
 the smallest mistake,
 the weight of simply being alive?
@@ -409,7 +409,7 @@ my feet remember movement
 even when my mind forgets hope.
 So I keep walking.
 Because somewhere beyond this blur
-There must be a place
+there must be a place
 where the rope becomes solid ground,
 where I no longer have to earn
 the right to exist
@@ -424,6 +424,7 @@ hoping that survival is nothing more
 than refusing to let go.`,
     collection: "First Lights",
   },
+];
 const essays = [
   {
     title: "A Critical Analysis of Depression and Psychological Conflict in the Poetry of Sylvia Plath",
