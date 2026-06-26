@@ -364,36 +364,37 @@ Every longing,
 Every unspoken thing
 You were never meant to carry alone.`,
     collection: "Tidebound",
-  },
-The Weight of Staying
-I find myself standing on a rope so thin
+   id: 7,
+    title: "The Weight of Staying",
+    year: "2026",
+    form: "Free verse",
+    excerpt: `I find myself standing on a rope so thin
+it disappears beneath my feet,
+drawn between the life I have survived
+and the one I cannot yet reach.`,
+    full: `I find myself standing on a rope so thin
 it disappears beneath my feet,
 drawn between the life I have survived
 and the one I cannot yet reach.
-
 The wind knows my name.
 It whispers,
 just one step wrong.
-
 Everything is blurred from here.
 The people below,
 their voices,
 their promises,
 the sky itself.
-
 I cannot tell whether I am walking toward tomorrow
 or simply delaying the fall.
 They tell me falling would not kill me.
 Then why does every trembling muscle beg me to hold on?
 Why does my heart beat like something
 trying to outrun its own ending?
-
 If the ground is so forgiving,
 Why have I spent every waking hour
 punishing myself for the slightest shift,
 the smallest mistake,
 the weight of simply being alive?
-
 I balance
 not because I am graceful,
 but because I am afraid.
@@ -401,11 +402,9 @@ Afraid of looking down.
 Afraid of looking ahead.
 Afraid that after all this struggle,
 the other side will look exactly like the one I left behind.
-
 Still,
 my feet remember movement
 even when my mind forgets hope.
-
 So I keep walking.
 Because somewhere beyond this blur
 There must be a place
@@ -415,14 +414,13 @@ the right to exist
 with perfect balance,
 where living is not a performance
 measured by how well I hide my shaking hands.
-
 Until then,
 I will carry my fear
 like another heartbeat,
 and take one impossible step after another,
 hoping that survival is nothing more
-than refusing to let go.
-;
+than refusing to let go.`,
+    collection: "First Lights",};
 
 const essays = [
   {
