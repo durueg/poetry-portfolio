@@ -366,7 +366,7 @@ You were never meant to carry alone.`,
     collection: "Tidebound",
   },
   {
-   id: 7,
+    id: 7,
     title: "The Weight of Staying",
     year: "2026",
     form: "Free verse",
@@ -422,7 +422,8 @@ like another heartbeat,
 and take one impossible step after another,
 hoping that survival is nothing more
 than refusing to let go.`,
-    collection: "First Lights",};
+    collection: "First Lights",
+  },
 
 const essays = [
   {
