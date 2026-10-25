@@ -424,7 +424,53 @@ hoping that survival is nothing more
 than refusing to let go.`,
     collection: "First Lights",
   },
-];
+{
+    id: 8,
+    title: "The Bright Red of It",
+    year: "2026",
+    form: "Free verse",
+    excerpt: `What if the rope isn't as thin as I thought it was?
+What if it can carry us both?
+What if it can hold our weight
+long enough to reach the other side?`,
+    full: `What if the rope isn't as thin as I thought it was?
+What if it can carry us both?
+What if it can hold our weight
+long enough to reach the other side?
+
+What if we've been closer than we think?
+
+If only you were here.
+You aren't.
+You haven't been in a long time.
+
+The rope is still there, hanging in the same spot.
+I wonder how much it has endured.
+All those storms and rain,
+all those days spent swaying in the wind,
+all that time spent holding on to nothing
+but the possibility of you.
+
+But it's still there.
+
+Still hanging where we left it.
+Still holding the shape of a promise
+neither of us knows how to keep.
+Still waiting for the weight of another person
+to pull it tight again.
+
+Sometimes I wonder if I'm the only one
+who remembers what it was meant for.
+If you've found another way across,
+or if you've stopped looking altogether.
+
+Are you still on the other side of it?
+Have you looked up at it lately?
+Can you still see the bright red of it,
+or has time made it fade
+into everything else you've left behind?`,
+    collection: "First Lights",
+  },];
 const essays = [
   {
     title: "A Critical Analysis of Depression and Psychological Conflict in the Poetry of Sylvia Plath",
@@ -1155,3 +1201,4 @@ export default function App() {
     </div>
   );
 }
+Add poem: The Bright Red of It
