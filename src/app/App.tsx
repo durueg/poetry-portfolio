@@ -424,53 +424,110 @@ hoping that survival is nothing more
 than refusing to let go.`,
     collection: "First Lights",
   },
-{
+  {
     id: 8,
-    title: "The Bright Red of It",
+    title: "What Was Never Yours",
     year: "2026",
     form: "Free verse",
-    excerpt: `What if the rope isn't as thin as I thought it was?
-What if it can carry us both?
-What if it can hold our weight
-long enough to reach the other side?`,
-    full: `What if the rope isn't as thin as I thought it was?
-What if it can carry us both?
-What if it can hold our weight
-long enough to reach the other side?
+    excerpt: `careful with the embodiment of pain.
+it might become impossible to separate yourself from it.
+be careful what happens when you give suffering a body, a voice, a name.
 
-What if we've been closer than we think?
+treat it as you would an oppressive man.`,
+    full: `careful with the embodiment of pain.
+it might become impossible to separate yourself from it.
+be careful what happens when you give suffering a body, a voice, a name.
 
-If only you were here.
-You aren't.
-You haven't been in a long time.
+treat it as you would an oppressive man.
+do not mistake its presence for belonging.
+do not mistake its familiarity for love.
 
-The rope is still there, hanging in the same spot.
-I wonder how much it has endured.
-All those storms and rain,
-all those days spent swaying in the wind,
-all that time spent holding on to nothing
-but the possibility of you.
+burn the bridges.
+lock the doors.
+run from the intruder.
 
-But it's still there.
+if you wish to save yourself,
+run as far as you humanly can.
 
-Still hanging where we left it.
-Still holding the shape of a promise
-neither of us knows how to keep.
-Still waiting for the weight of another person
-to pull it tight again.
+before you begin to call the bruises
+proof that you have been touched.
+before you learn to sleep
+with the weight of another body
+pressing against your chest.
 
-Sometimes I wonder if I'm the only one
-who remembers what it was meant for.
-If you've found another way across,
-or if you've stopped looking altogether.
+before you start defending
+what has been slowly destroying you,
+before you forget
+that there was a time
+when your body belonged only to you.
 
-Are you still on the other side of it?
-Have you looked up at it lately?
-Can you still see the bright red of it,
-or has time made it fade
-into everything else you've left behind?`,
-    collection: "First Lights",
-  },];
+leave before the walls begin to resemble skin.
+before the silence learns your name.
+before you find yourself making excuses
+for the things that keep you awake.
+
+and if it follows,
+do not mistake its persistence for devotion.
+
+some things return
+not because they love you,
+simply because they remember
+how easily you let them in.`,
+    collection: null,
+  },
+{
+    id: 9,
+    title: "Let the Clouds Be Clouds",
+    year: "2026",
+    form: "Free verse",
+    excerpt: `We get so caught up in the chaos of time,
+we forget this is our only chance at existence.
+If only we could look up for a second or two,
+perhaps we would find the reason to persist.`,
+    full: `We get so caught up in the chaos of time,
+we forget this is our only chance at existence.
+If only we could look up for a second or two,
+perhaps we would find the reason to persist.
+
+Don't spend the ticking clock
+worrying, hurting over the smallest details.
+Think of the leaves upon the trees,
+and how they fall without a sound,
+leaving nothing but their trails.
+
+You will worry, obsess,
+hurt yourself over the smallest of things.
+But at the end of the day, the earth shall not worry,
+and the birds shall keep on flapping their wings.
+
+The sun will rise without asking
+whether yesterday was worth the pain.
+The flowers will open in the morning,
+and the rain will fall again.
+
+The world will not wait for you to heal,
+nor will it ask you to be whole.
+It will turn beneath your weary feet,
+while you try to make sense of it all.
+
+So let yourself be here, if only for a while.
+Let the wind pass through your hair.
+You do not have to understand the passing hours
+to deserve the time you have to spare.
+
+There is no answer in every passing thought,
+no hidden meaning in each ache.
+Sometimes a life is just a life,
+and not everything is yours to change.
+
+So look up. Let the clouds be clouds.
+Let the evening come and go.
+You are allowed to be alive
+without having to know.`,
+    collection: null,
+  },
+];
+
 const essays = [
   {
     title: "A Critical Analysis of Depression and Psychological Conflict in the Poetry of Sylvia Plath",
@@ -1201,4 +1258,4 @@ export default function App() {
     </div>
   );
 }
-Add poem: The Bright Red of It
+
