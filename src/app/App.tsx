@@ -523,7 +523,7 @@ and not everything is yours to change.
 So look up. Let the clouds be clouds.
 Let the evening come and go.
 You are allowed to be alive
-without having to know.`,
+without having to know it all.`,
     collection: null,
   },
 ];
