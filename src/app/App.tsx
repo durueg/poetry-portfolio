@@ -526,6 +526,58 @@ You are allowed to be alive
 without having to know it all.`,
     collection: null,
   },
+  {
+    id: 10,
+    title: "Alive Enough to Become",
+    year: "2026",
+    form: "Free verse",
+    excerpt: `If I could fold this Wednesday afternoon, I would keep it in my pocket.
+I would carry the night frost, not caring about the numbness in my hands.
+I would give it a name, a voice, and arms to hold me in,
+and keep on living inside it until this life I struggle to push through
+expires into nothing; a quiet, null void.`,
+    full: `If I could fold this Wednesday afternoon, I would keep it in my pocket.
+I would carry the night frost, not caring about the numbness in my hands.
+I would give it a name, a voice, and arms to hold me in,
+and keep on living inside it until this life I struggle to push through
+expires into nothing; a quiet, null void.
+
+If only I could unfold it and step back inside, again and again,
+where the cold feels safe and the hours refuse to move.
+I would trade every tomorrow just to stay in that light,
+curled against the chill of a day that never had to end,
+safe in the crease of a memory time cannot touch.
+
+But instead, I stare into my empty eyes looking back at me in the mirror.
+Oh, you fool, stuck inside unanswered prayers,
+don’t you know this is all you can carry around?
+That blank stare, caught in a state of hopelessness
+where did the light go? In which passing hour did you leave it?
+
+Yet even in the glass, a breath begins to fog the cold.
+Maybe the light was never lost in some forgotten afternoon,
+only waiting beneath the frost for my hands to thaw.
+If I cannot fold the past to keep me safe,
+perhaps I can still open the door to tomorrow,
+and finally let the warmth come in.
+
+I step out, looking up at the sky.
+The sky gives a glimpse of a smile, and I smile back.
+Even the clouds refuse to keep their shape,
+constantly embracing change, letting the wind pass through and shuffle them around.
+
+I walk down the block, noticing all the details in the street
+I usually forget to process on a normal day;
+the candy store is now a restaurant, the bakery is now a butcher,
+bricks painted over, new signs hanging where old names used to fade.
+
+Nothing stays frozen, not the weather, not the corner shops, not even me.
+For once, the shifting world does not feel like a loss,
+just proof that everything is still alive enough to become something new.
+I keep walking, hands loose in my pockets,
+ready to let the wind reshape whatever comes next.`,
+    collection: null,
+  },
 ];
 
 const essays = [
